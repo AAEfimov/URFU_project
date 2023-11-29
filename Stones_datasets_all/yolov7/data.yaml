@@ -1,0 +1,12 @@
+names:
+- Stones
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: stone_segmentation-jxgjz
+  url: https://universe.roboflow.com/urfu-uavlq/stone_segmentation-jxgjz/dataset/2
+  version: 2
+  workspace: urfu-uavlq
+test: ../test/images
+train: Stone_segmentation-2/train/images
+val: Stone_segmentation-2/valid/images

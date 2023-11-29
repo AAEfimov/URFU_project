@@ -1,0 +1,6 @@
+names:
+- Stones
+nc: 1
+test: Stone_segmentation-2/images/test
+train: Stone_segmentation-2/images/train
+val: Stone_segmentation-2/images/valid

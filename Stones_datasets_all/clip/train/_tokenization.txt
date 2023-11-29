@@ -1,0 +1,2 @@
+An example picture from the Stone_segmentation dataset depicting Stones
+An example picture from the Stone_segmentation dataset depicting no Stones
