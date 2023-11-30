@@ -1,8 +1,8 @@
 
-Stone_segmentation - v2 2023-11-29 2:39pm
+Stone_segmentation - v3 2023-11-30 11:55am
 ==============================
 
-This dataset was exported via roboflow.com on November 29, 2023 at 9:41 AM GMT
+This dataset was exported via roboflow.com on November 30, 2023 at 6:56 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
